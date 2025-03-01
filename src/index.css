@@ -1,0 +1,16 @@
+@import "tailwindcss";
+html,
+body {
+  height: 100%;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+  background: #242038; /* Fallback deep purple */
+  font-family: "Montserrat", sans-serif;
+  color: #f7ece1; /* Default creamy off-white */
+}
+
+::-webkit-scrollbar {
+  display: none;
+}
