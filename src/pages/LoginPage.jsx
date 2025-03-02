@@ -37,7 +37,7 @@ const LoginPage = () => {
       {/* Header */}
       <header className="bg-black text-gray-200 p-4 border-b border-gray-800">
         <div className="container mx-auto flex justify-between items-center">
-          <h1 className="text-2xl font-medium">DeepFake Buster</h1>
+          <h1 className="text-2xl font-medium">AI-Buster</h1>
         </div>
       </header>
 
@@ -114,7 +114,7 @@ const LoginPage = () => {
       {/* Footer */}
       <footer className="bg-black text-gray-400 py-4 border-t border-gray-800">
         <div className="container mx-auto text-center">
-          <p>© 2025 DeepFake Buster. All rights reserved.</p>
+          <p>© 2025 AI-Buster. All rights reserved.</p>
         </div>
       </footer>
     </div>

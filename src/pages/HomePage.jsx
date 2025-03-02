@@ -227,7 +227,7 @@ const HomePage = () => {
         {/* Header */}
         <header className="bg-gray-950 text-gray-200 p-4 border-b border-gray-800">
           <div className="container mx-auto flex justify-between items-center">
-            <h1 className="text-2xl font-medium">DeepFake Buster</h1>
+            <h1 className="text-2xl font-medium">AI-Buster</h1>
             <div className="space-x-4">
               <button
                 onClick={handleLogin}
@@ -249,7 +249,7 @@ const HomePage = () => {
         <main className="flex-grow flex items-center justify-center py-16">
           <div className="text-center">
             <h2 className="text-4xl font-bold text-violet-300 mb-4">
-              DeepFake Buster
+              AI-Buster
             </h2>
             <p className="text-lg text-gray-300 mb-8">
               Unmask the truth behind images and videos with cutting-edge AI.
@@ -275,7 +275,7 @@ const HomePage = () => {
         {/* Footer */}
         <footer className="bg-gray-950 text-gray-400 py-4 border-t border-gray-800">
           <div className="container mx-auto text-center">
-            <p>© 2025 DeepFake Buster. All rights reserved.</p>
+            <p>© 2025 AI-Buster. All rights reserved.</p>
           </div>
         </footer>
       </div>
